@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+logs/
+workspace/projects/*/__pycache__/
+.gitignore
