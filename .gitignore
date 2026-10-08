@@ -34,5 +34,4 @@ models/
 ollama-data/
 
 # Generated workspace state
-workspace/projects/*/__pycache__/
-workspace/projects/*/.pytest_cache/
+workspace/
